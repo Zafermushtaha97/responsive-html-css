@@ -13,7 +13,7 @@ body{
     background: url("../image/bg.png") no-repeat top center;
     background-size: cover;
     -webkit-background-size:cover;
-    min-height: 400px;
+    min-height: 600px;
     position: relative;
     top:0;
     
